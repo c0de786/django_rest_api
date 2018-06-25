@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3e7aa6-5537-46a5-b468-d2e2398002b7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangorest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangorest/settings.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -119,11 +119,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/djangorest/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="76" column="28" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="31" />
+            <state relative-caret-position="158">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding>
                 <element signature="e#314#323#0" expanded="true" />
               </folding>
@@ -168,8 +168,8 @@
       <find>DetailsView</find>
       <find>api</find>
       <find>allowed</find>
-      <find>debug</find>
       <find>wsg</find>
+      <find>debug</find>
     </findStrings>
     <replaceStrings>
       <replace>book</replace>
@@ -204,8 +204,8 @@
         <option value="$PROJECT_DIR$/books_rest_api/serializers.py" />
         <option value="$PROJECT_DIR$/books_rest_api/urls.py" />
         <option value="$PROJECT_DIR$/djangorest/wsgi.py" />
-        <option value="$PROJECT_DIR$/djangorest/settings.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/djangorest/settings.py" />
       </list>
     </option>
   </component>
@@ -511,6 +511,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="14" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
@@ -522,10 +523,10 @@
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.328877" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="1" weight="0.3296875" />
-      <window_info active="true" anchor="bottom" id="Find" order="9" visible="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Find" order="9" visible="true" weight="0.328877" />
       <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.18181819" />
@@ -667,20 +668,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djangorest/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="76" column="28" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="31" />
-          <folding>
-            <element signature="e#314#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djangorest/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="e#314#323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

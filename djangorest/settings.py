@@ -24,9 +24,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '$s1fnl_lk)f44*3!eh^tku@tjlu3(c#@^8b&j+30qds+6t0)jw'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['django-books-rest-api.herokuapp.com']
 CORS_ORIGIN_ALLOW_ALL = True
 
 
