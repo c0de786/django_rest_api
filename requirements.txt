@@ -1,0 +1,11 @@
+certifi==2018.4.16
+Django==1.10.3
+django-cors-headers==2.2.0
+djangorestframework==3.8.2
+djangorestframework-jwt==1.11.0
+gunicorn==19.8.1
+pipenv==2018.5.18
+PyJWT==1.6.4
+virtualenv==16.0.0
+virtualenv-clone==0.3.0
+whitenoise==3.3.1
