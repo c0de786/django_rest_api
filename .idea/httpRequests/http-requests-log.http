@@ -1,0 +1,40 @@
+POST http://localhost:8000/get-token/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-23T052435.400.json
+
+###
+
+POST http://localhost:8000/get-token/?username=admin&password=adminadmin
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-23T052406.400.json
+
+###
+
+POST http://localhost:8000/get-token/?username=admin&password=adminadmin
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-23T052359.400.json
+
+###
+
+POST http://localhost:8000/get-token/?username=admin&password=adminadmin
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-23T052326.400.json
+
+###
+
+POST http://localhost:8000/get-token/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-06-23T052247.400.json
+
+###
+
