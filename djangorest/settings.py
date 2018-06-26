@@ -26,7 +26,7 @@ SECRET_KEY = '$s1fnl_lk)f44*3!eh^tku@tjlu3(c#@^8b&j+30qds+6t0)jw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['django-books-rest-api.herokuapp.com']
+ALLOWED_HOSTS = ['django-books-rest-api.herokuapp.com','localhost']
 CORS_ORIGIN_ALLOW_ALL = True
 
 
@@ -140,8 +140,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/1.9/howto/static-files/
+# # Static files (CSS, JavaScript, Images)
+# # https://docs.djangoproject.com/en/1.9/howto/static-files/
 STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
 STATIC_URL = '/static/'
 
